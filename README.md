@@ -15,11 +15,11 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 
 ## 📚 My Projects
 
-- [Rosalind]([link](https://github.com/Fuat47/Rosalind_Bioinformatics_Solutions.git))
+- [Rosalind Bioinformatics Solutions](https://github.com/Fuat47/Rosalind_Bioinformatics_Solutions.git)
 
 ## 📫 Contact
 
-- **LinkedIn:** [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/fuat-mencik-3814671ba)
+- **LinkedIn:** [[Link]](https://www.linkedin.com/in/fuat-mencik-3814671ba)
 
 ## 🤝 Your Contributions
 
