@@ -10,12 +10,13 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 
 ## 🛠️ Technologies I Use
 
-- **Language:** Python, Java, MATLAB, and C#
+- **Language:** Python, Java, MATLAB, C++, and C#
 - **Others:** Git, VSCode
 
 ## 📚 My Projects
 
 - [Rosalind Bioinformatics Solutions](https://github.com/Fuat47/Rosalind_Bioinformatics_Solutions.git)
+- [Multiple_Sequence_Alignment](https://github.com/Fuat47/Multiple_Sequence_Alignment)
 
 ## 📫 Contact
 
