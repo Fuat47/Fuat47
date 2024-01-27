@@ -5,8 +5,7 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 ## 🚀 About Me
 
 - 🎓 I am a 4th-year student in the Computer Engineering Department at Dokuz Eylül University.
-- 💻 Software development and open-source projects are my passion.
-- 🌐 Technologies I'm interested in include Python, Java, MATLAB, and C#.
+- 💻 Technologies I'm interested in include Python, Java, MATLAB, and C#.
 
 ## 🛠️ Technologies I Use
 
@@ -16,7 +15,9 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 ## 📚 My Projects
 
 - [Rosalind Bioinformatics Solutions](https://github.com/Fuat47/Rosalind_Bioinformatics_Solutions.git)
-- [Multiple_Sequence_Alignment](https://github.com/Fuat47/Multiple_Sequence_Alignment)
+- [Multiple Sequence Alignment](https://github.com/Fuat47/Multiple_Sequence_Alignment)
+- [CFG to CNF](https://github.com/Fuat47/CFG_to_CNF)
+- [Farm Management System](https://github.com/Fuat47/Farm_Management_System)
 
 ## 📫 Contact
 
