@@ -18,6 +18,7 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 - [Multiple Sequence Alignment](https://github.com/Fuat47/Multiple_Sequence_Alignment)
 - [CFG to CNF](https://github.com/Fuat47/CFG_to_CNF)
 - [Farm Management System](https://github.com/Fuat47/Farm_Management_System)
+- [DeuCengChess](https://github.com/Fuat47/DeuCengChess)
 
 ## 📫 Contact
 
