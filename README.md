@@ -19,7 +19,7 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 - [CFG to CNF](https://github.com/Fuat47/CFG_to_CNF)
 - [Farm Management System](https://github.com/Fuat47/Farm_Management_System)
 - [DeuCengChess](https://github.com/Fuat47/DeuCengChess)
-- [Employee Tracking Application]([https://github.com/Fuat47/DeuCengChess](https://github.com/Fuat47/Employee_Tracking_Application))
+- [Employee Tracking Application](https://github.com/Fuat47/DeuCengChess](https://github.com/Fuat47/Employee_Tracking_Application))
 
 ## 📫 Contact
 
