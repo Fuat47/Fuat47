@@ -5,12 +5,12 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 ## 🚀 About Me
 
 - 🎓 I am a 4th-year student in the Computer Engineering Department at Dokuz Eylül University.
-- 💻 Technologies I'm interested in include Python, Java, MATLAB, and C#.
+- 💻 Technologies I'm interested in include Python, Java, MATLAB, Dart, C++, and C#.
 
 ## 🛠️ Technologies I Use
 
-- **Language:** Python, Java, MATLAB, C++, and C#
-- **Others:** Git, VSCode
+- **Language:** Python, Java, MATLAB, Dart, C++, and C#
+- **Others:** Git, VSCode, Android Studio, Arduino IDE
 
 ## 📚 My Projects
 
@@ -20,6 +20,7 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 - [Farm Management System](https://github.com/Fuat47/Farm_Management_System)
 - [DeuCengChess](https://github.com/Fuat47/DeuCengChess)
 - [Employee Tracking Application](https://github.com/Fuat47/DeuCengChess](https://github.com/Fuat47/Employee_Tracking_Application))
+- [Technical_Service_Application](https://github.com/Fuat47/Technical_Service_Application)
 
 ## 📫 Contact
 
