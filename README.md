@@ -20,11 +20,12 @@ I am Fuat Mencik, a 4th-year student in the Computer Engineering Department at D
 - [Farm Management System](https://github.com/Fuat47/Farm_Management_System)
 - [DeuCengChess](https://github.com/Fuat47/DeuCengChess)
 - [Employee Tracking Application](https://github.com/Fuat47/DeuCengChess](https://github.com/Fuat47/Employee_Tracking_Application))
-- [Technical_Service_Application](https://github.com/Fuat47/Technical_Service_Application)
+- [Technical Service Application](https://github.com/Fuat47/Technical_Service_Application)
+- [Self-Organizing Maps](https://github.com/Fuat47/Self_Organizing_Maps)
 
 ## 📫 Contact
 
-- **LinkedIn:** [[Link]](https://www.linkedin.com/in/fuat-mencik-3814671ba)
+- **LinkedIn:** https://www.linkedin.com/in/fuatmencik3547/
 
 ## 🤝 Your Contributions
 
